@@ -1,3 +1,4 @@
 hello world ! i am new
 
+merge conflict
 test
